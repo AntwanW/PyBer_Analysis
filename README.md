@@ -4,8 +4,8 @@
 
 This analysis aims to create a line graph that shows the total fares by each city type; Urban, Suburban, and Rural. We created a summary data frame that organized total rides, total drivers, total fares, average per ride, and average per driver and the multiple line plot.
 
-![This is an image]https://github.com/Wrancher123/PyBer_Analysis/blob/main/Resources/PyBer_fare_summary.png)
-![This is an image]https://github.com/Wrancher123/PyBer_Analysis/blob/main/Resources/PyBer_fare_chart.png)
+![This is an image](https://github.com/Wrancher123/PyBer_Analysis/blob/main/Resources/PyBer_fare_summary.png)
+![This is an image](https://github.com/Wrancher123/PyBer_Analysis/blob/main/Resources/PyBer_fare_chart.png)
  
 ## Results:
 
