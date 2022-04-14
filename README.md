@@ -13,4 +13,4 @@ Due to the availability of drivers, PyBer rides in rural areas; the data shows t
 
 ## Summary:
 
-Since the total fares for different cities seem to increase and decrease at the end of February in all areas, the company should investigate what causes this increase and decrease. Having fewer drivers can increase the average fare per ride and driver. PyBer can use this information to determine how many drivers it should have in order to achieve its profit goal.
+Since the total fares for different cities seem to increase and decrease at the end of February in all areas, the company should investigate what causes this increase and decrease; the same for mid April with Suburban area with continuous increase.  Having fewer drivers can increase the average fare per ride and driver. PyBer can use this information to determine how many drivers it should have in order to achieve its profit goal.
